@@ -1,2 +1,1 @@
-# sum-of-even-fibonnacci-numbers
-Lua program that calculates the sum of the even numbers of the fibonnacci sequence until an end point
+I was trying to solve ProjectEuler's 2nd problem and also try learning lua so I made this program real quick :P
